@@ -1,1 +1,1 @@
-# confrict_sample
+githubで編集しました。
